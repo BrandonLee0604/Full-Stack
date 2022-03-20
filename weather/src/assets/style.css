@@ -1,0 +1,32 @@
+@import "css/weather-icons-wind.css";
+@import "css/weather-icons.css";
+
+.ui-container {
+    padding: 10px;
+    background: #e0edfd;
+}
+
+.ui-grid {
+
+}
+
+.panel {
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .2);
+}
+
+.current-temp span {
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.current-temp svg {
+    width: 50px;
+    height: 50px;
+}
+
+.weather-items li {
+    list-style: none;
+}
